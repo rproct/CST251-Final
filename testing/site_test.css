@@ -1,0 +1,41 @@
+div#content{
+	background-color: #f4d6cc;
+
+}
+.jumbotron, jumbotron-fluid{
+	background-image: url(https://assets.vg247.com/current/2019/03/risk_of_rain_2-1.jpg);
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: 100vw; 
+
+}
+
+h2, h3, h4,h5,h6, h1{
+	color: #f4b860;
+	text-shadow: 
+	1px 0px 1px #c83e4d, 0px 1px 1px #c83e4d;
+}
+
+img{
+	outline: solid 5px firebrick;
+}
+
+ .col-4, .col-8{
+	margin-bottom: 6px;
+	margin-top: 6px;
+
+}
+
+ul.nav, a.nav-link{
+	background-color: #4a5859;
+	color: white;
+
+}
+
+.jumbotron-fluid{
+	margin-bottom: 0;
+}
+
+p.lead{
+	color: white;
+}
