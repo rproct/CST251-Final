@@ -6,13 +6,13 @@ div#content{
 	background-image: url(https://assets.vg247.com/current/2019/03/risk_of_rain_2-1.jpg);
 	overflow: hidden;
 	background-repeat: no-repeat;
-	background-size: 100vw; 
+	background-size: 100vw;
 
 }
 
 h2, h3, h4,h5,h6, h1{
 	color: #f4b860;
-	text-shadow: 
+	text-shadow:
 	1px 0px 1px #c83e4d, 0px 1px 1px #c83e4d;
 }
 
@@ -39,3 +39,6 @@ ul.nav, a.nav-link{
 p.lead{
 	color: white;
 }
+
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Nunito', sans-serif;*/
