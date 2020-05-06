@@ -32,6 +32,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -48,7 +49,7 @@
       <workItem from="1586818632943" duration="6000" />
       <workItem from="1588281564973" duration="2783000" />
       <workItem from="1588451116042" duration="716000" />
-      <workItem from="1588797871056" duration="828000" />
+      <workItem from="1588797871056" duration="1284000" />
     </task>
     <servers />
   </component>
@@ -60,5 +61,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1588451235347" />
+    <state x="242" y="169" key="SettingsEditor" timestamp="1588799286209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="169" key="SettingsEditor/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1588799286209" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1588799229750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040/-1680.26.1680.1010@0.0.1920.1040" timestamp="1588799229750" />
   </component>
 </project>
