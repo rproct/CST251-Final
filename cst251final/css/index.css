@@ -51,6 +51,7 @@ img {
 /*row with "the lads" text*/
 .lads {
 	background-color: #c83e4d;
+	letter-spacing: 3px;
 }
 
 /*centering "the lads"*/
@@ -83,4 +84,31 @@ p {
     background-repeat: repeat-x;
     background-size: .1px 5px;
     display: inline;
+}
+
+
+/*Mobile size*/
+@media only screen and (max-width: 999px) {
+	.desk-nav {
+		display: none;
+	}
+
+	.extend {
+		position: relative;
+		border: none;
+		left: -1%;
+	}
+
+	.nav-link:hover {
+		text-shadow: none;
+		color: #c83e4d;
+	}
+}
+
+
+/*Desktop size*/
+@media only screen and (min-width: 1000px) {
+	.mobile-nav {
+		display: none;
+	}
 }

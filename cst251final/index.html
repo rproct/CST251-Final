@@ -14,13 +14,14 @@
     <!--  Custom CSS  -->
     <link rel="stylesheet" href="css/index.css">
     <link href="https://fonts.googleapis.com/css2?family=Nunito&family=Oswald:wght@500&display=swap" rel="stylesheet">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
     <title>C-Game Group</title>
 </head>
 
 <body>
 
-    <!-- NAV BAR -->
-
+    <!-- NAV BAR - DESKTOP -->
+<div class="desk-nav">
     <nav class="navbar sticky-top navbar-expand-lg navbar-light" style="background-color: #f4b860;">
         <ul class="navbar-nav mr-auto">
             <a class="nav-link" href="index.html" style="color: #c83e4d;"><b>Home</b></a>
@@ -41,7 +42,39 @@
             </li>
         </ul>
     </nav>
+</div>
 
+
+    <!-- NAV BAR - MOBILE -->
+    <div class="mobile-nav">
+    <div class="pos-f-t">
+        <nav class="navbar navbar-light" style="background-color: #f4b860;">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
+        <div class="collapse" id="navbarToggleExternalContent">
+            <ul class="navbar-nav mr-auto extend">
+                <a class="nav-link" href="index.html" style="background-color: #f4b860;"><b>Home</b></a>
+                <li class="nav-item active">
+                    <a class="nav-link" href="risk-of-rain-2/index.html" style="background-color: #f4b860;">Risk of Rain 2</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="dark-souls-3/index.html" style="background-color: #f4b860;">Dark Souls 3</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="animal-crossing/index.html" style="background-color: #f4b860;">Animal Crossing</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="minecraft/index.html" style="background-color: #f4b860;">Minecraft</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="super-smash-bros/index.html" style="background-color: #f4b860;">Super Smash Bros</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
     <!-- MAIN CONTENT -->
     <div class="container">
         <!-- TITLE/BANNER -->
@@ -50,7 +83,7 @@
         
             <header class="title">
                 <div>
-                    <h1 class="title">The Lads</h1>
+                    <h1 class="title">The   Lads</h1>
                 </div>
             </header>
 
