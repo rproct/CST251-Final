@@ -9,11 +9,23 @@ ul {
 	margin-right: auto;
 }
 
-.nav-link {
+.navbar{
+	background-color: #f4b860;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #000000;
 	margin-left: 1vw;
 	color: #32373b;
 	font-size: 20px;
-	font-family: nunito;
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	font-weight: bold;
+	color: #c83e4d;
 }
 
 .nav-link:hover {
