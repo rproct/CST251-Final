@@ -30,9 +30,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cst251final" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rydpr\Desktop\CST251-Final\cst251final" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +54,7 @@
       <workItem from="1586818632943" duration="6000" />
       <workItem from="1588281564973" duration="2783000" />
       <workItem from="1588451116042" duration="716000" />
-      <workItem from="1588797871056" duration="1284000" />
+      <workItem from="1588797871056" duration="1531000" />
     </task>
     <servers />
   </component>
