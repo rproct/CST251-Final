@@ -108,12 +108,16 @@ p {
 	.extend {
 		position: relative;
 		border: none;
-		left: -1%;
+		left: 0%;
 	}
 
 	.nav-link:hover {
 		text-shadow: none;
 		color: #c83e4d;
+	}
+
+	body {
+		overflow-x: none;
 	}
 }
 
