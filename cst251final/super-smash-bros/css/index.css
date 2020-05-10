@@ -16,10 +16,11 @@ div#content {
 }
 
 .jumbotron, jumbotron-fluid{
-    background-image: url(../images/ssbu-banner.png);
-    overflow: hidden;
+    background-image: url("../images/ssbu-banner.png");
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100vw;
+    background-size: cover;
+    overflow: hidden;
 }
 
 h2,h1{
