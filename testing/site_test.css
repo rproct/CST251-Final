@@ -37,12 +37,6 @@ h3, h4,h5,h6 {
 	object-fit: fill;
 }
 
-.col-4, .col-8{
-	margin-bottom: 6px;
-	margin-top: 6px;
-
-}
-
 .row {
 	margin-top: 5%;
 }

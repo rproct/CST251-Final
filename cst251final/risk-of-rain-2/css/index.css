@@ -27,7 +27,6 @@ img{
 }
 
 ul.nav, a.nav-link{
-	background-color: #4a5859;
 	color: white;
 
 }
@@ -50,6 +49,32 @@ p{
 
 #begin{
   margin-top: 30px;
+}
+
+#pic{
+
+}
+.navbar{
+	background-color: #f4b860;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #000000;
+	margin-left: 1vw;
+	color: #32373b;
+	font-size: 20px;
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	font-weight: bold;
+	color: #c83e4d;
+}
+
+.nav-link:hover {
+	text-shadow: 0px 0px 5px #c83e4d;
 }
 /*font-family: 'Oswald', sans-serif;
 font-family: 'Nunito', sans-serif;*/
