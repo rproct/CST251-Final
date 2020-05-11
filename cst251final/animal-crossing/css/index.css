@@ -1,0 +1,130 @@
+body {
+    background-color: #32373b;
+}
+
+.outer {
+    box-shadow: 0px 0px 10px;
+}
+
+.inner {
+    padding: 5%;
+}
+
+div#content {
+    background-color: #f4d6cc;
+    margin: -1.3%;
+}
+
+.jumbotron, jumbotron-fluid{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/ssbu-banner.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.jumbotron .container{
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.screenshot {
+    /*background-size: 100%;*/
+    /*height: ;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/Super-Smash-Bros.-Ultimate-Fighter-Pass-2.jpg);*/
+}
+
+img#hide{
+    opacity: 0;
+}
+
+h2,h1{
+    color: #f4b860;
+    text-shadow:
+            1px 0px 1px #c83e4d, 0px 1px 1px #c83e4d;
+}
+
+h3, h4,h5,h6 {
+    font-family: oswald;
+
+}
+
+.img-fluid{
+    object-fit: fill;
+}
+
+.col-4, .col-8{
+    margin-bottom: 6px;
+    margin-top: 6px;
+
+}
+
+.row {
+    margin-top: 5%;
+}
+
+.box {
+    outline: solid 5px #c83e4d;
+}
+
+
+p.lead{
+    color: white;
+}
+
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Nunito', sans-serif;*/
+
+
+/*NAV*/
+ul {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-link {
+    margin-left: 1vw;
+    color: #32373b;
+    font-size: 20px;
+    font-family: nunito;
+}
+
+.nav-link:hover {
+    text-shadow: 0px 0px 5px #c83e4d;
+}
+/*END NAV*/
+
+
+/*Mobile size*/
+@media only screen and (max-width: 999px) {
+    .desk-nav {
+        display: none;
+    }
+
+    .extend {
+        position: relative;
+        border: none;
+        left: 0%;
+    }
+
+    .nav-link:hover {
+        text-shadow: none;
+        color: #c83e4d;
+    }
+
+    body {
+        overflow-x: none;
+    }
+}
+
+
+/*Desktop size*/
+@media only screen and (min-width: 1000px) {
+    .mobile-nav {
+        display: none;
+    }
+}
