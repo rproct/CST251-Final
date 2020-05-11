@@ -16,11 +16,30 @@ div#content {
 }
 
 .jumbotron, jumbotron-fluid{
-    background-image: url("../images/ssbu-banner.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/ssbu-banner.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
+}
+.jumbotron .container{
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.screenshot {
+    /*background-size: 100%;*/
+    /*height: ;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/Super-Smash-Bros.-Ultimate-Fighter-Pass-2.jpg);*/
+}
+
+img#hide{
+    opacity: 0;
 }
 
 h2,h1{
