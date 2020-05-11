@@ -32,9 +32,10 @@ div#content {
 }
 
 .screenshot {
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/Super-Smash-Bros.-Ultimate-Fighter-Pass-2.jpg);
+    /*background-size: 100%;*/
+    /*height: ;*/
+    /*background-repeat: no-repeat;*/
+    /*background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/Super-Smash-Bros.-Ultimate-Fighter-Pass-2.jpg);*/
 }
 
 img#hide{
