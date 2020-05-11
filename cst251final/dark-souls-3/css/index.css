@@ -23,7 +23,7 @@ div#content {
 	background-size: 120vw;
 }
 
-h2,h1{
+h2,h1, h4 {
 	color: #f4b860;
 	text-shadow:
 	1px 0px 1px #c83e4d, 0px 1px 1px #c83e4d;
@@ -31,8 +31,8 @@ h2,h1{
 
 h3, h4,h5,h6 {
 	font-family: oswald;
-
 }
+
 
 .screenshot {
 	background-size: 113%;
