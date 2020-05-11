@@ -16,7 +16,7 @@ div#content {
 }
 
 .jumbotron, jumbotron-fluid{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://ibb.co/F6bkFPs");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://cdn.wccftech.com/wp-content/uploads/2020/02/WCCFanimalcrossing3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -35,7 +35,7 @@ div#content {
     /*background-size: 100%;*/
     /*height: ;*/
     /*background-repeat: no-repeat;*/
-    /*background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/Super-Smash-Bros.-Ultimate-Fighter-Pass-2.jpg);*/
+    /*background-image: url(https://cdn.wccftech.com/wp-content/uploads/2020/02/WCCFanimalcrossing3.jpg);*/
 }
 
 img#hide{
