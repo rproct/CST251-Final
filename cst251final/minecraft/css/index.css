@@ -1,0 +1,94 @@
+div#content {
+	background-color: #f4d6cc;
+	margin: -1.3%;
+}
+
+body {
+	background-color: #32373b;
+}
+
+.outer {
+	box-shadow: 0px 0px 10px;
+}
+
+.inner {
+	padding: 5%;
+}
+
+.jumbotron, jumbotron-fluid{
+	background-image: url(https://wallpaperaccess.com/full/171177.jpg);
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: 100vw;
+
+}
+
+h2, h3, h4,h5,h6, h1{
+	color: #f4b860;
+	text-shadow:
+	1px 0px 1px #c83e4d, 0px 1px 1px #c83e4d;
+}
+
+img{
+	outline: solid 5px firebrick;
+}
+
+ .col-4, .col-8{
+	margin-bottom: 6px;
+	margin-top: 6px;
+
+}
+
+ul.nav, a.nav-link{
+
+	color: white;
+
+}
+
+.jumbotron-fluid{
+	margin-bottom: 0;
+}
+
+p.lead{
+	color: white;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Oswald', sans-serif;
+}
+
+p{
+  font-family: 'Nunito', sans-serif;
+}
+
+#begin{
+  margin-top: 30px;
+}
+
+#pic{
+
+}
+.navbar{
+	background-color: #f4b860;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #000000;
+	margin-left: 1vw;
+	color: #32373b;
+	font-size: 20px;
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	font-weight: bold;
+	color: #c83e4d;
+}
+
+.nav-link:hover {
+	text-shadow: 0px 0px 5px #c83e4d;
+}
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Nunito', sans-serif;*/
